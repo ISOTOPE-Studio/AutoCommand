@@ -1,0 +1,7 @@
+toggle:
+  console: true
+  player: true
+console:
+- give <player> diamond 1
+player:
+- home

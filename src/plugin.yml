@@ -1,0 +1,7 @@
+name: AutoCommand
+main: cc.isotopestudio.autocommand.AutoCommand
+
+author: Mars
+description: AutoCommand
+website: http://isotopestudio.cc
+version: 1.0.0
